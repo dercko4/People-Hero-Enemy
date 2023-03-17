@@ -29,4 +29,5 @@ int main()
         }
         cout << "Раунд " << i << " окончен" << endl << endl;
     }
+    return 0;
 }
